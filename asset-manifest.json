@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Analise-sentimento/static/css/main.2d12e9de.chunk.css",
-    "main.js": "/Analise-sentimento/static/js/main.546522e3.chunk.js",
-    "main.js.map": "/Analise-sentimento/static/js/main.546522e3.chunk.js.map",
-    "runtime-main.js": "/Analise-sentimento/static/js/runtime-main.12f687cb.js",
-    "runtime-main.js.map": "/Analise-sentimento/static/js/runtime-main.12f687cb.js.map",
-    "static/js/2.402fbfa4.chunk.js": "/Analise-sentimento/static/js/2.402fbfa4.chunk.js",
-    "static/js/2.402fbfa4.chunk.js.map": "/Analise-sentimento/static/js/2.402fbfa4.chunk.js.map",
-    "static/js/3.ee3b5e6d.chunk.js": "/Analise-sentimento/static/js/3.ee3b5e6d.chunk.js",
-    "static/js/3.ee3b5e6d.chunk.js.map": "/Analise-sentimento/static/js/3.ee3b5e6d.chunk.js.map",
-    "index.html": "/Analise-sentimento/index.html",
-    "static/css/main.2d12e9de.chunk.css.map": "/Analise-sentimento/static/css/main.2d12e9de.chunk.css.map",
-    "static/js/2.402fbfa4.chunk.js.LICENSE.txt": "/Analise-sentimento/static/js/2.402fbfa4.chunk.js.LICENSE.txt"
+    "main.css": "/Analise-sentimentos/static/css/main.2d12e9de.chunk.css",
+    "main.js": "/Analise-sentimentos/static/js/main.546522e3.chunk.js",
+    "main.js.map": "/Analise-sentimentos/static/js/main.546522e3.chunk.js.map",
+    "runtime-main.js": "/Analise-sentimentos/static/js/runtime-main.3a3ed1da.js",
+    "runtime-main.js.map": "/Analise-sentimentos/static/js/runtime-main.3a3ed1da.js.map",
+    "static/js/2.402fbfa4.chunk.js": "/Analise-sentimentos/static/js/2.402fbfa4.chunk.js",
+    "static/js/2.402fbfa4.chunk.js.map": "/Analise-sentimentos/static/js/2.402fbfa4.chunk.js.map",
+    "static/js/3.ee3b5e6d.chunk.js": "/Analise-sentimentos/static/js/3.ee3b5e6d.chunk.js",
+    "static/js/3.ee3b5e6d.chunk.js.map": "/Analise-sentimentos/static/js/3.ee3b5e6d.chunk.js.map",
+    "index.html": "/Analise-sentimentos/index.html",
+    "static/css/main.2d12e9de.chunk.css.map": "/Analise-sentimentos/static/css/main.2d12e9de.chunk.css.map",
+    "static/js/2.402fbfa4.chunk.js.LICENSE.txt": "/Analise-sentimentos/static/js/2.402fbfa4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12f687cb.js",
+    "static/js/runtime-main.3a3ed1da.js",
     "static/js/2.402fbfa4.chunk.js",
     "static/css/main.2d12e9de.chunk.css",
     "static/js/main.546522e3.chunk.js"
